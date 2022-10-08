@@ -46,7 +46,7 @@ html {
 body {
   background-color: var(--cl-p-mainBackground);
   color: var(--cl-s-mainParagraph);
-  height: 100vh;
+  min-height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
