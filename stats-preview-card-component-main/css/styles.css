@@ -108,7 +108,8 @@ Card styles
   top: 0;
   left: 0;
   background-color: var(--cl-p-accent);
-  opacity: 0.5;
+  mix-blend-mode: multiply;
+  opacity: 80%;
   border-top-right-radius: var(--borderRadius);
   border-top-left-radius: var(--borderRadius);
 }
