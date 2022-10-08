@@ -148,7 +148,7 @@ Desktop style
   }
   .card_imgHolder {
     width: 400px;
-    height: 100%;
+    height: auto;
     border-radius: 0 var(--borderRadius) var(--borderRadius) 0;
   }
   .card_content {
