@@ -24,7 +24,7 @@ Users should be able to:
 ### Screenshot
 
 <p align="center">
-<img src="https://github.com/VladenCode/FM-Stats-preview-card/blob/main/stats-preview-card-component-main/screenshot.png" width="400" height="250" />
+<img src="https://github.com/VladenCode/FM-Stats-preview-card/blob/main/stats-preview-card-component-main/screenshot.PNG" width="400" height="250" />
 </p>
 
 ### Links
